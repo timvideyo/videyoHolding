@@ -17,7 +17,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #FF6C00;
+  border-color: #EF3824;
 }
 
 hr.light {
@@ -25,13 +25,13 @@ hr.light {
 }
 
 a {
-  color: #FF6C00;
+  color: #EF3824;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #FF6C00;
+  color: #EF3824;
 }
 
 h1,
@@ -44,7 +44,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #FF6C00 !important;
+  background-color: #EF3824 !important;
 }
 
 .bg-dark {
@@ -102,12 +102,12 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #FF6C00;
+  color: #EF3824;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #FF6C00;
+  color: #EF3824;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -120,12 +120,12 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #FF6C00;
+  color: #EF3824;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #FF6C00 !important;
+  color: #EF3824 !important;
   background-color: transparent;
 }
 
@@ -161,10 +161,10 @@ img::-moz-selection {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #FF6C00;
+    color: #EF3824;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #FF6C00;
+    color: #EF3824;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
@@ -172,7 +172,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #FF6C00;
+    color: #EF3824;
   }
 }
 
@@ -290,7 +290,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #FF6C00 !important;
+  color: #EF3824 !important;
 }
 
 .btn {
@@ -306,16 +306,16 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #FF6C00;
-  border-color: #FF6C00;
+  background-color: #EF3824;
+  border-color: #EF3824;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #FF6C00 !important;
+  background-color: #EF3824 !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(239, 56, 36, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(239, 56, 36, 0.5) !important;
 }
